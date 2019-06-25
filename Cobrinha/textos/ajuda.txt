@@ -1,0 +1,21 @@
+1. Funcionalidades
+1.1 No menu inicial é possível iniciar uma partida, ler a ajuda, ver seus
+recordes e sair do jogo.
+1.2 Dentro do jogo em si, você pode voltar para o menu inicial, reiniciar 
+o jogo e sair.
+
+2. Objetivo do jogo e regras
+2.1 O joga da cobrinha consiste me um jogo em que o jogador controla uma 
+cobrinha que anda automaticamente, o objetivo do jogo é comer o maior 
+número de maçãs.
+2.2 Se a cobra colidir com a borda ela "morre", outra maneira de morrer é 
+colidindocom ela mesma.
+2.3 Comer a maçã preta comida diminui o tamanho da cobra em 5 quadradinhos,
+ela permanece por um período e depois some, se comer a maçã vermelha antes 
+dela ela também some.
+
+3. Comandos
+3.1 Para controlar a cobrinha utilize as setas do teclado, a cobra não se
+virará diretamente da esquerda para a direito e nem de cima pra baixo e 
+vice-versa.
+-Acabou-
